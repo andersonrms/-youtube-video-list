@@ -4,7 +4,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NdnSwdi9Aqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Video institucional - ABBR
+## Video Institutional - ABBR
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pf2Mvr8CSEI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -20,11 +20,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y3aF-VOar2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Medicina esportiva
+## Sports medicina
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b85Acd-QKMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## TO Infantil
+## TO Children
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pgydP16gbSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -36,35 +36,35 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lc_R8EUiUmM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Pilates Fisioterapêutico
+## Therapeutic Pilates
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yH2uScPC3Ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Oficina Ortopédica
+## Orthopedic Workshop
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xZbnfDa79ZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Serviço Social
+## Service Social
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CwLgD9hpDug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Podio
+## Podium
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OD5wXp8qGMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Por dentro da ABBR
+## Inside the ABBR
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tw9Bbw0wdbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Estimualção pedagogica
+## Pedagogical Stimulation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PQZrCz49KhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Psicologia
+## Psychology
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/USMSB7vYoB4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Hidroterapia
+## Hydrotherapy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vy8Vyz1_yfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
